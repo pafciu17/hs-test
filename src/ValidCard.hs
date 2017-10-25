@@ -1,4 +1,4 @@
-module Lib
+module ValidCard
   (
     listLength,
     reverseList,

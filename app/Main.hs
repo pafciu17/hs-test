@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import ValidCard
 
 main :: IO ()
 main = print 1
