@@ -8,7 +8,6 @@ module ValidCard
     doubleEveryOther,
     sumDigits,
     validate,
-    test,
     mergeDigits
   ) where
 

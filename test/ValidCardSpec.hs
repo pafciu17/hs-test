@@ -1,7 +1,7 @@
 module ValidCardSpec (main, spec) where
 
 import Test.Hspec
-import ValidCard (listLength, reverseList, toDigitsRev, toDigits, doubleEveryOther, sumDigits, validate, test, mergeDigits)
+import ValidCard (listLength, reverseList, toDigitsRev, toDigits, doubleEveryOther, sumDigits, validate, mergeDigits)
 
 main :: IO ()
 main = hspec spec
